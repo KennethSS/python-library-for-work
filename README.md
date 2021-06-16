@@ -3,5 +3,5 @@
 
 
 | Name | Note | Licence |
-|:------:|:-----------:|:-----------:|:---------:|
+|:------:|:-----------:|:---------:|
 | [authlib](https://github.com/lepture/authlib)| The ultimate Python library in building OAuth and OpenID Connect servers. JWS, JWK, JWA, JWT are included. | View license |
